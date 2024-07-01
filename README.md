@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nandun-perera-bb2035219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="30" width="40" /></a>
 <a href="https://fb.com/chathra navoda ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathra navoda ranasinghe" height="30" width="40" /></a>
 
 </p>
@@ -48,7 +48,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ChathraNavoda&row=2&column=3&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://www.thecoderpedia.com/wp-content/uploads/2020/06/There-are-two-ways-to-write-error-free-programs-Technology-Quotes.png?x86257))
 
 ### 😆 Random Dev Meme
 
