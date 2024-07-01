@@ -41,7 +41,7 @@
 ![a](https://github-readme-streak-stats.herokuapp.com/?user=ChathraNavoda&theme=midnight-purple&hide_border=false)<br/>
 ![a](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=6c09b952f9e42ad9694018de2a88632c217e7f980b3b02bc&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 ### 🏆 GitHub Trophies
 
