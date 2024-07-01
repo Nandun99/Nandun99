@@ -48,7 +48,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ChathraNavoda&row=2&column=3&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://www.thecoderpedia.com/wp-content/uploads/2020/06/There-are-two-ways-to-write-error-free-programs-Technology-Quotes.png?x86257))
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://www.thecoderpedia.com/wp-content/uploads/2020/06/There-are-two-ways-to-write-error-free-programs-Technology-Quotes.png?x86257)
 
 ### 😆 Random Dev Meme
 
