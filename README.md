@@ -52,7 +52,7 @@
 
 ### 😆 Random Dev Meme
 
-<img align="center" src="https://www.meme-arsenal.com/memes/0fc5499f9d62f5759a639021c3df3152.jpg" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="470" width="340" />
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpKBhB2hOTs0qKL53-TYDe_gnFha9m-srwg&s" height="470" width="340" />
 
 ### OOps! Snake is eating my contributions 😼
 
