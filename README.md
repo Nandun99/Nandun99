@@ -9,17 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathranavoda&label=Profile%20views&color=0e75b6&style=flat" alt="chathranavoda" /> </p>
 
 
-- 🔭 I’m currently working on [Workout_Planner](https://github.com/ChathraNavoda/Workout_Planner)
+- 🔭 I’m currently working on [Spring Boot API Management System
+](https://github.com/Nandun99/StudentAPI)
 
-- 🌱 I’m currently learning **Flutter 🚀, Machine Learning 🤖, Deep learning**
+- 🌱 I’m currently learning **Java 🍵, Machine Learning 🤖, Deep learning**
 
-- 👯 I’m looking to collaborate on [Educational_app](https://github.com/ChathraNavoda/Educational_app)
-
-- 🤝 I’m looking for help with [Educational_app](https://github.com/ChathraNavoda/Educational_app)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ChathraNavoda](https://github.com/ChathraNavoda)
-
-- 📝 I regularly write articles on [https://medium.com/@chathranavoda](https://medium.com/@chathranavoda)
+- 👨‍💻 All of my projects are available at [https://github.com/Nandun99/](https://github.com/Nandun99/)
 
 - 💬 Ask me about **Java, Kotlink**
 
