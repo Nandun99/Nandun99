@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/steroidtocat.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathranavoda&label=Profile%20views&color=0e75b6&style=flat" alt="chathranavoda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NandunPerera&label=Profile%20views&color=0e75b6&style=flat" alt="NandunPerera" /> </p>
 
 
 - 🔭 I’m currently working on [Spring Boot API Management System
@@ -37,15 +37,15 @@
 <br/>
 
 ### 📊 GitHub Stats:
-![a](https://github-readme-stats.vercel.app/api?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-![a](https://github-readme-streak-stats.herokuapp.com/?user=ChathraNavoda&theme=midnight-purple&hide_border=false)<br/>
-![a](https://github-readme-stats.vercel.app/api/top-langs/?username=ChathraNavoda&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![a](https://github-readme-stats.vercel.app/api?username=NandunPerera&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![a](https://github-readme-streak-stats.herokuapp.com/?user=NandunPerera&theme=midnight-purple&hide_border=false)<br/>
+![a](https://github-readme-stats.vercel.app/api/top-langs/?username=NandunPerera&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ChathraNavoda&row=2&column=3&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NandunPerera&row=2&column=3&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://www.thecoderpedia.com/wp-content/uploads/2020/06/There-are-two-ways-to-write-error-free-programs-Technology-Quotes.png?x86257)
@@ -56,4 +56,4 @@
 
 ### OOps! Snake is eating my contributions 😼
 
-![Snake animation](https://github.com/ChathraNavoda/ChathraNavoda/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/NandunPerera/NandunPerera/blob/output/github-contribution-grid-snake-dark.svg)
