@@ -10,7 +10,7 @@ BSc (Hons) Computer Science, specialising in AI · IEEE published.
 
 **Featured work**
 
-| | |
+| Project | About |
 |---|---|
 | [**DineDash**](https://github.com/Nandun99/dinedash) | Cloud-native food delivery platform: Spring Boot microservices, Kafka, React, Docker, Kubernetes and AWS |
 | [**DocuMind**](https://github.com/Nandun99/documind) | RAG document Q&A assistant with cited answers: FastAPI, LangChain, OpenAI and ChromaDB |
